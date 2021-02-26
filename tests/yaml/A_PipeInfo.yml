@@ -2,7 +2,7 @@ resources:
   - name: resource_A_Pipeinfo_gitRepo
     type: GitRepo
     configuration:
-      path: jfbetapipeorg/Org_test_Automation
+      path: jatindogra/Org_test_Automation
       branches:
         include: master
       gitProvider: s_gitHub
